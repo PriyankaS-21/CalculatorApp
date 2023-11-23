@@ -41,8 +41,8 @@ Make sure you have the following installed:
 
 5. To build the application
 
-  ```bash
-   npm run build
+   ```bash
+    npm run build
 
 ### Features
 -> Can perform basic mathamatical calculations
